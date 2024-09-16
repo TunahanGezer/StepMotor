@@ -23,7 +23,7 @@ This project is a **Stepper Motor Driver** system using the **STSPIN820** IC, wh
 
 ## Project Files
 
-- **Circuit Diagram**: [Link to schematic]
+- **Circuit Diagram**: [https://github.com/TunahanGezer/StepMotor/blob/main/Schematic_step-motor-2024-09-16.pdf]
 - **PCB Design**: [https://github.com/TunahanGezer/StepMotor/blob/main/PCB-step-motor.jpg]
 
 ## How to Use
